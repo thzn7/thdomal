@@ -1,6 +1,10 @@
 .img{
     width: 20%;
 }
+body{
+    background-color: rgb(0, 12, 121);
+    font: 40px;
+}
 .cabecalho{
     display: flex;
     align-items: center;
