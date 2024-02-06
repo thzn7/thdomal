@@ -8,6 +8,7 @@
 }
 .cabecalho-lista{
     display: flex;
+    list-style-type: none;
 }
 .cabecalho-logo{
     display: flex;
