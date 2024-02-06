@@ -9,12 +9,11 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    color: blue;
 }
 .cabecalho-lista{
     display: flex;
     list-style-type: none;
-    color: rgb(255, 255, 255);
+    color: rgb(3, 2, 77);
 }
 .cabecalho-logo{
     display: flex;
