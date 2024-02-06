@@ -13,7 +13,7 @@ body{
 .cabecalho-lista{
     display: flex;
     list-style-type: none;
-    color: rgb(3, 2, 77);
+    color: rgb(255, 255, 255);
 }
 .cabecalho-logo{
     display: flex;
